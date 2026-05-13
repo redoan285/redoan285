@@ -1,113 +1,151 @@
-# 🚀 Cinematic Developer Portfolio
+<!-- ========================= -->
+<!--        RM REDOAN         -->
+<!-- ========================= -->
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Hi+%F0%9F%91%8B%2C+I'm+RM+Redoan;MERN+Stack+Developer+%7C+CSE+Student;Cinematic+UI+%7C+Next.js+16+%7C+GSAP;Building+Modern+Web+%26+AI+Solutions" alt="Typing Banner"/>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=900&lines=Hi+%F0%9F%91%8B%2C+I'm+RM+Redoan;MERN+Stack+Developer+%7C+CSE+Student;React+%7C+Next.js+%7C+Node.js+%7C+MongoDB;Building+Modern+Web+Experiences;Always+Learning+New+Technologies+%F0%9F%9A%80" alt="Typing Banner"/>
 </p>
 
 ---
 
-## 🌟 Overview
+# 💫 About Me
 
-Welcome to my professional developer portfolio. This project is a high-performance, visually stunning web application built with **Next.js 16** and **Tailwind CSS v4**. It showcases my skills, projects, and technical expertise through cinematic animations and a premium user experience.
+I am a passionate MERN Stack Developer and CSE student focused on building modern, scalable, and user-friendly web applications.
 
-🔗 **Live Demo:** [mhshanto-dev.vercel.app](https://mhshanto-dev.vercel.app/)
+I enjoy creating clean UI, smooth user experiences, and interactive full-stack applications using modern technologies.
 
----
-
-## ✨ Key Features
-
-- **🎬 Cinematic Animations**: Powered by **GSAP** and **Framer Motion** for smooth, eye-catching transitions and parallax effects.
-- **📜 Smooth Scrolling**: Integrated **Lenis** for a premium, consistent scrolling experience across all devices.
-- **🤖 AI Assistant**: An interactive, simulated AI chat component to help visitors learn more about my work and skills.
-- **🌓 Adaptive Theme**: Seamless Dark/Light mode support with **Next Themes**.
-- **📱 Ultra Responsive**: Fluid layout designed for all screen sizes using **Tailwind CSS v4**.
-- **⚡ Performance First**: Optimized using Next.js App Router for blazing-fast load times and SEO.
-- **📝 Resume Integration**: Dedicated resume section with interactive content.
+- 🌱 Currently Learning: Next.js, Backend Architecture & AI Integration
+- 🚀 Exploring Modern Web Animations & Premium UI/UX
+- 💻 Love Building Real World Projects
+- 🎯 Goal: Become a Professional Full Stack Developer
 
 ---
 
-## 🛠️ Tech Stack
+# 👨‍💻 Personal Branding
 
-### Frontend
-- **Framework:** [Next.js 16 (App Router)](https://nextjs.org/)
-- **Library:** [React 19](https://reactjs.org/)
-- **Styling:** [Tailwind CSS v4](https://tailwindcss.com/)
-- **Icons:** [Lucide React](https://lucide.dev/)
+<p align="center">
+  <img src="https://img.shields.io/badge/MERN%20STACK%20DEVELOPER-00CFFF?style=for-the-badge&logo=react&logoColor=white" />
+</p>
 
-### Animations
-- **GSAP:** [GSAP 3](https://greensock.com/gsap/) with ScrollTrigger
-- **Framer Motion:** [Framer Motion](https://www.framer.com/motion/)
-- **Scroll:** [Lenis Smooth Scroll](https://github.com/darkroomengineering/lenis)
-- **Text:** [Split Type](https://github.com/lukePeavey/SplitType)
+<p align="center">
+  <b>RM REDOAN</b><br/>
+  <i>Building Modern Web Experiences</i><br/><br/>
 
-### Tools & Deployment
-- **Linting:** ESLint
-- **Deployment:** [Vercel](https://vercel.com/)
+  JavaScript | React | Next.js | Node.js | Express.js | MongoDB
+</p>
 
----
+<p align="center">
+  🌐 <b>Portfolio:</b>
+  <a href="https://my-portfolio-lake-chi-f0cf9xubd5.vercel.app/">
+    my-portfolio-lake-chi-f0cf9xubd5.vercel.app
+  </a>
+</p>
 
-## 📂 Project Structure
-
-```text
-src/
-├── app/              # Next.js App Router (Pages & Routes)
-├── assets/           # Images, Icons, and Media
-├── components/       # Reusable React Components
-│   ├── Hero.jsx      # Cinematic Hero Section
-│   ├── AIChat.jsx    # Interactive AI Assistant
-│   └── ...
-├── lib/              # Utility functions and configurations
-└── styles/           # Global CSS and Tailwind configurations
-```
+<p align="center">
+  📧 <b>Email:</b> redoanmollik582@gmail.com
+</p>
 
 ---
 
-## 🚀 Getting Started
+# 🚀 Projects
 
-To run this project locally, follow these steps:
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/redoan285/mhshanto-dev.git
-cd mhshanto-dev
-```
-
-### 2. Install dependencies
-```bash
-npm install
-```
-
-### 3. Run the development server
-```bash
-npm run dev
-```
-Open [http://localhost:3000](http://localhost:3000) in your browser to see the result.
+| # | Project | Live Demo |
+|---|---|---|
+| 01 | 💼 Personal Portfolio | [Visit](https://my-portfolio-lake-chi-f0cf9xubd5.vercel.app/) |
+| 02 | 🛒 Modern Ecommerce Website | [Visit](https://assignment-7-flame.vercel.app/) |
+| 03 | 📦 Full Stack Web Application | [Visit](https://assignment-8-two-xi.vercel.app/) |
+| 04 | 🤝 Friendship Social Platform | [Visit](https://keep-your-friendships-alive-by-redoan.netlify.app/) |
 
 ---
 
-## 🛠️ Environment Variables
+# ⚡ Tech Stack
 
-If you plan to integrate real AI capabilities or backend services, create a `.env.local` file in the root directory:
+<p align="center">
 
-```env
-# Example variables (add yours as needed)
-NEXT_PUBLIC_API_URL=your_api_url
-```
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB"/>
+
+<img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
+
+<img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black"/>
+
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+
+<img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
+
+</p>
 
 ---
 
-## 📄 License
+# 📊 GitHub Stats
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=redoan285&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=redoan285&theme=tokyonight" alt="GitHub Streak"/>
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=redoan285&layout=compact&theme=tokyonight" alt="Top Languages"/>
+</p>
 
 ---
 
-## 🤝 Contact
+# 🎯 2026 Goals
 
-**RM Redoan**
-- **Email:** redoanmollik582@gmail.com
-- **GitHub:** [@redoan285](https://github.com/redoan285)
-- **LinkedIn:** [redoan-mollik](https://linkedin.com/in/redoan-mollik)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=16&duration=2000&pause=800&color=00F7FF&center=true&width=700&lines=%E2%9C%85+Become+Professional+Full+Stack+Developer;%E2%9C%85+Master+Next.js+%26+Backend;%E2%9C%85+Build+SaaS+Products;%E2%9C%85+Contribute+to+Open+Source;%E2%9C%85+Get+Remote+Developer+Job" alt="Goals"/>
+</p>
 
 ---
-<p align="center">Made with ❤️ by RM Redoan</p>
+
+# 📈 Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=redoan285&theme=tokyo-night" alt="Contribution Graph"/>
+</p>
+
+---
+
+# 📫 Connect With Me
+
+<p align="center">
+
+<a href="mailto:redoanmollik582@gmail.com">
+  <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://github.com/redoan285">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://my-portfolio-lake-chi-f0cf9xubd5.vercel.app/">
+  <img src="https://img.shields.io/badge/Portfolio-00CFFF?style=for-the-badge&logo=vercel&logoColor=white"/>
+</a>
+
+</p>
+
+---
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=2500&pause=1000&color=00F7FF&center=true&width=700&lines=Thanks+for+visiting+my+profile!+%F0%9F%91%8B;Let's+Build+Something+Amazing+Together!;Open+to+Work+%26+Collaboration;Keep+Learning+Keep+Growing+%F0%9F%9A%80" alt="Footer Animation"/>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=redoan285&color=00F7FF&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views"/>
+</p>

@@ -221,7 +221,7 @@ const Hero = () => {
             </motion.button>
           </Magnetic>
 
-          <Magnetic strength={0.2}>
+          {/* <Magnetic strength={0.2}>
             <motion.a
               href="https://my-portfolio-lake-chi-f0cf9xubd5.vercel.app/"
               target="_blank"
@@ -232,7 +232,7 @@ const Hero = () => {
               <span className="material-symbols-outlined text-[20px]">visibility</span>
               View Portfolio
             </motion.a>
-          </Magnetic>
+          </Magnetic> */}
 
           <Magnetic strength={0.2}>
             <motion.button

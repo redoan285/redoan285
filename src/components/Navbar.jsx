@@ -97,7 +97,7 @@ const Navbar = () => {
             className="flex items-center gap-3 group"
           >
             <div className="relative w-9 h-9 sm:w-10 sm:h-10 rounded-full overflow-hidden group-hover:scale-110 transition-transform duration-500 shadow-lg shadow-primary/20 bg-black border border-outline-variant/20 dark:border-white/10">
-              <div className="w-full h-full bg-primary flex items-center justify-center text-white font-black text-lg">RM</div>
+              <div className="w-full h-full bg-primary flex items-center justify-center text-white font-black text-lg ">RM</div>
             </div>
             <span className="hidden sm:block text-xl md:text-2xl font-black tracking-tight text-on-background transition-colors uppercase">
               <span className="text-primary"> Redoan</span>

@@ -252,7 +252,7 @@ const Hero = () => {
         initial={{ opacity: 0, scale: 0.9, filter: "blur(20px)" }}
         animate={{ opacity: 1, scale: 1, filter: "blur(0px)" }}
         transition={{ duration: 1.5, ease: [0.16, 1, 0.3, 1], delay: 0.5 }}
-        className="relative lg:justify-self-end flex flex-col items-center"
+        className="relative flex flex-col items-center order-first lg:order-last lg:justify-self-end"
       >
         <div className="relative group">
           {/* Organic Glow behind image */}
